@@ -1,4 +1,5 @@
 Project Name = Car Price Prediction.
+
 Project URL = https://github.com/Harsh040903/Car-price-prediction-1/blob/main/Microsoft%20Training/Untitled0%20(1).ipynb
 
 Technology Used  = Python was the major technology used for the implementation of machine learning concepts the reason being that there are numerous inbuilt methods in the form of packaged libraries present in python.
