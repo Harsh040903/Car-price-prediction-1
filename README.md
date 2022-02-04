@@ -20,4 +20,4 @@ Workflow = First is data collection project so we need this car data so the data
 
 
 
-Conclusion = By performing different ML models, we aim to get a better result or less error with max accuracy. Next, with the help of data visualization features were explored deeply. The relation between the features is examined.
+Conclusion = Car price prediction can be a challenging task due to the high number of attributes that should be considered for the accurate prediction. The major step in the prediction process is collection and preprocessing of the data. And  the data should be clean to avoid unnecessary noise for machine learning algorithms. 
